@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188087007663",
+    "project_id": "otpauthentication-a3b4c",
+    "storage_bucket": "otpauthentication-a3b4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188087007663:android:e63d3f6a4500902f1bd75a",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDybKMlkaXV6rfDr3hXq76Msrw3H3anGLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
